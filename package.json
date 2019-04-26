@@ -1,0 +1,15 @@
+{
+  "name": "x-testing",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:jkappers/x-testing.git",
+  "author": "Joshua Kappers <josh@jkappers.me>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
